@@ -1,3 +1,5 @@
+1 May - 7 May
+
 Monday
 
 Tuesday
@@ -11,4 +13,25 @@ Friday
 Saturday
 
 Sunday
+(Done)Reading survey papers
+(In-progress) find out how excactly structral bias/ geometric input features are incorporated into transformer (Graphormer)
+(In-progress) running https://github.com/Microsoft/Graphormer
+(In-queue) what is token in tokenGT? why not have tokenGT with a modified attention? (why pure)
+(In-queue) some theory: ARE MORE LAYERS BENEFICIAL TO GRAPH TRANSFORMERS?
 
+
+8 May - 15 May
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thusrday
+
+Friday
+
+Saturday
+
+Sunday
