@@ -1,11 +1,5 @@
 1 May - 7 May
 
-Monday
-
-Tuesday
-
-Wednesday
-
 Thusrday
 
 Friday
@@ -23,6 +17,12 @@ Sunday
 8 May - 15 May
 
 Monday
+(Done) Graphormer: bring Graph informtaion/bias to transformer
+(Done) tokenGT: pure self-attention to avoid old issues from message passing
+(In-progress) some theoretical analysis - Graphormer：how it can genralize to other popular GNN
+(In-progress/abort) could not clone a sub module? https://github.com/Microsoft/Graphormer
+(In-progress) some theoretical analysis - why tokenGT still powerful
+(In-queue) ARE MORE LAYERS BENEFICIAL TO GRAPH TRANSFORMERS?
 
 Tuesday
 
