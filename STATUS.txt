@@ -25,6 +25,11 @@ Monday
 (In-queue) ARE MORE LAYERS BENEFICIAL TO GRAPH TRANSFORMERS?
 
 Tuesday
+(Done) revisiting attention is all you need 
+(Done) some theoretical analysis: "bringing GNN to transformer" transformer can express GNN well by careful construction
+(In-progress) benchmark: (invariant Graph Network) IGN and k-wl test
+(In-progress) benchmark: GNN variants are special case of graph transformer
+(In-progress) ARE MORE LAYERS BENEFICIAL TO GRAPH TRANSFORMERS?
 
 Wednesday
 
